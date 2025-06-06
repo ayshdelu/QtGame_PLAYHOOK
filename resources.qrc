@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>player/speed1.png</file>
+        <file>player/speed2.png</file>
+        <file>player/speed3.png</file>
+        <file>player/speed4.png</file>
+        <file>map/GameMap1.png</file>
+        <file>map/GameMap2.png</file>
+        <file>map/GameMap3.png</file>
+        <file>data/Col_Data_C.txt</file>
+        <file>data/Col_Data_D.txt</file>
+        <file>map/GameMap4.png</file>
+        <file>map/GameMap5.png</file>
+	<file>map/GameMap6.png</file>
+	<file>map/GameMap7.png</file>
+	<file>map/GameMap8.png</file>
+	<file>map/Button.png</file>
+	<file>player/sans.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>map/button.png</file>
+    </qresource>
+</RCC>
